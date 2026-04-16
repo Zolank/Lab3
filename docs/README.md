@@ -1,0 +1,1 @@
+echo "Текст для ридми" > docs/README.md
